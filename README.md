@@ -1,5 +1,5 @@
 # pomodoro-app
-An Pomodoro App by using Python TKinter
+A Pomodoro App by using Python TKinter
 
 
 I made an Pomodoro App. It's a default pomodoro 
